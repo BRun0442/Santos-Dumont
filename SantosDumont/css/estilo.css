@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+body
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    position: relative;
+    left: 15px;
+}
+#linha-cabeçario
+{
+    position: static;
+    width: 100%;
+    border: 20px solid rgb(0, 80, 0);
+}
+#texto
+{
+    width: 55%;
+} 
+h2
+{
+    text-align: center; 
+}
+#titulo
+{
+    text-align: center;
+}
+#fotografia
+{
+    height: 450px;
+    width: 360px;
+    position: absolute;
+    left: 800px;
+    bottom: 400px;
+    border-radius: 15px;
+    border-style: solid;
+}
+#aviao
+{
+    height: 240px;
+    width: 400px;
+    position: absolute;
+    left: 700px;
+    top: 650px;
+}
+#frase
+{
+    font-size: large;
+    margin-top: 50px;
+}
